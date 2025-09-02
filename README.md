@@ -67,6 +67,10 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white&style=for-the-badge" height="40" />
+
 </div>
 
 ###
