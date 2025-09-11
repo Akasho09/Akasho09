@@ -44,8 +44,6 @@ Infrastructure, caching, and deployment tools I use to scale and maintain applic
 
 ### — CI/CD Tools —
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black)
-![Jenkins](https://img.shields.io/badge/-Jenkins-red)
-![Travis CI](https://img.shields.io/badge/-Travis_CI-blue)
 
 ### — Testing Tools —
 ![Cypress](https://img.shields.io/badge/-Cypress-green)
